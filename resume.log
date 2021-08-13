@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.8.13)  13 AUG 2021 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.8.13)  13 AUG 2021 13:55
 entering extended mode
 **c:/Users/Isaia/Documents/repos/resume/resume.tex
 (c:/Users/Isaia/Documents/repos/resume/resume.tex
@@ -215,15 +215,15 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \TX@cols=\count266
 \TX@ftn=\toks23
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 83.
-LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 177.
+Package hyperref Info: Option `colorlinks' set `true' on input line 79.
+LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 173.
  (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firasans-osf.fd
 File: T1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/l/n' in size <12> not available
-(Font)              Font shape `T1/FiraSans-OsF/light/n' tried instead on input line 177.
+(Font)              Font shape `T1/FiraSans-OsF/light/n' tried instead on input line 173.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/light/n' will be
-(Font)              scaled to size 12.0pt on input line 177.
+(Font)              scaled to size 12.0pt on input line 173.
  (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count267
@@ -231,25 +231,25 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 ) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-Package hyperref Info: Link coloring ON on input line 177.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+Package hyperref Info: Link coloring ON on input line 173.
  (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -259,10 +259,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count268
 )
-LaTeX Info: Redefining \ref on input line 177.
-LaTeX Info: Redefining \pageref on input line 177.
-LaTeX Info: Redefining \nameref on input line 177.
- (resume.out) (resume.out)
+LaTeX Info: Redefining \ref on input line 173.
+LaTeX Info: Redefining \pageref on input line 173.
+LaTeX Info: Redefining \nameref on input line 173.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
@@ -282,51 +281,1010 @@ LaTeX Info: Redefining \nameref on input line 177.
 \makeMPintoPDFobject=\count276
 \everyMPtoPDFconversion=\toks25
 ) (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd)
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <12> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 186.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 186.
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 186.
- (C:\Users\Isaia\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomeone.fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Argument of \@vspace has an extra }.
+<inserted text> 
+                \par 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
-LaTeX Font Warning: Font shape `U/fontawesomeone/b/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 186.
+Runaway argument?
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Paragraph ended before \@vspace was complete.
+<to be read again> 
+                   \par 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-LaTeX Font Warning: Font shape `U/fontawesomeone/l/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 202.
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 243.
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 272.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 272.
-[1
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-{C:/Users/Isaia/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (resume.aux)
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Missing } inserted.
+<inserted text> 
+                }
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179: Extra }, or forgotten \endgroup.
+<inserted text> }
+                 
+l.179 \vspace
+             {-10pt} % Set a negative value to push the body up, and the opp...
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 10863 strings out of 479334
- 165080 string characters out of 2857084
- 466415 words of memory out of 3000000
- 28177 multiletter control sequences out of 15000+200000
- 554749 words of font info for 57 fonts, out of 3000000 for 9000
+ 10812 strings out of 479334
+ 163813 string characters out of 2857084
+ 446139 words of memory out of 3000000
+ 28146 multiletter control sequences out of 15000+200000
+ 479006 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,15n,74p,305b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_iln36p.enc}{C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Book.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Light.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-LightItalic.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on resume.pdf (1 page, 203937 bytes).
-PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71i,15n,74p,305b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+c:/Users/Isaia/Documents/repos/resume/resume.tex:179:  ==> Fatal error occurred, no output PDF file produced!
