@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1631235511 "c:/Users/Isaia/Documents/repos/resume/resume.tex" "resume.pdf" "resume" 1631235523
+["pdflatex"] 1635641888 "c:/Users/Isaia/Documents/repos/resume/resume.tex" "resume.pdf" "resume" 1635641891
   "C:/Users/Isaia/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1628883850 9407463 98acdbcf31ba7b4dc5bb7bf310b34944 ""
   "C:/Users/Isaia/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1628884093 219825 53bfbce4f40d1819fc6af28b6bf907f3 ""
   "C:/Users/Isaia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_iln36p.enc" 1570723678 3071 cfa92ee28d698dd9275559d9d1c3a233 ""
@@ -95,12 +95,12 @@
   "C:/Users/Isaia/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Isaia/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/Isaia/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1606302286 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "c:/Users/Isaia/Documents/repos/resume/resume.tex" 1631235508 7620 cb39d9d7f8d4e31cb739fac16a287503 ""
-  "resume.aux" 1631235522 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "resume.out" 1631235521 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1631235508 7620 cb39d9d7f8d4e31cb739fac16a287503 ""
+  "c:/Users/Isaia/Documents/repos/resume/resume.tex" 1635641886 8249 3188bd4d309e3647adcf8f7c655d9ffd ""
+  "resume.aux" 1635641891 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "resume.out" 1635641891 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1635641886 8249 3188bd4d309e3647adcf8f7c655d9ffd ""
   (generated)
-  "resume.aux"
-  "resume.log"
   "resume.pdf"
+  "resume.aux"
   "resume.out"
+  "resume.log"
