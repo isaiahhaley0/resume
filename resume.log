@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.23)  20 NOV 2022 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.23)  8 JUN 2023 17:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,9 +306,9 @@ LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
 (Font)              using `U/fontawesometwo/m/n' instead on input line 195.
 
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 256.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 247.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 256.
+(Font)              scaled to size 10.95pt on input line 247.
 [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
@@ -321,13 +321,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11380 strings out of 478287
  180298 string characters out of 5850749
- 479993 words of memory out of 5000000
+ 476993 words of memory out of 5000000
  29436 multiletter control sequences out of 15000+600000
  620578 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,63p,292b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/fira/fir_iln36p.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Book.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on resume.pdf (1 page, 183923 bytes).
+Output written on resume.pdf (1 page, 182958 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
