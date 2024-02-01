@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.23)  8 JUN 2023 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.23)  31 JAN 2024 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,19 +299,20 @@ LaTeX Font Warning: Font shape `U/fontawesomeone/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `U/fontawesomeone/l/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 190.
+(Font)              using `U/fontawesomeone/m/n' instead on input line 195.
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 195.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 204.
 
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 247.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 247.
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10.95> not available
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 271.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 271.
+ [2] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -319,18 +320,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11380 strings out of 478287
- 180298 string characters out of 5850749
- 476993 words of memory out of 5000000
+ 11381 strings out of 478287
+ 180304 string characters out of 5850749
+ 479993 words of memory out of 5000000
  29436 multiletter control sequences out of 15000+600000
  620578 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,63p,292b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,15n,63p,292b,595s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/fira/fir_iln36p.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Book.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on resume.pdf (1 page, 182958 bytes).
+Output written on resume.pdf (2 pages, 184068 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

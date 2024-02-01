@@ -602,7 +602,6 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Book-osf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-LightItalic-osf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomeone.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/fira/FiraSans-Bold-osf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -614,6 +613,7 @@ INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/fira/FiraSans-Book-osf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Book-osf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/fira/FiraSans-LightItalic-osf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-LightItalic-osf-t1--base.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/fira/FiraSans-Bold-osf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-t1--base.tfm
 INPUT resume.aux
